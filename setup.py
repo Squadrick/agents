@@ -130,6 +130,8 @@ REQUIRED_PACKAGES = [
     'gin-config == 0.1.3',
     'numpy >= 1.13.3',
     'six >= 1.10.0',
+    'google-cloud-bigtable==0.32.1',
+    'google-cloud-core==0.29.1'
     # tensorflow-probability added below
 ]
 
